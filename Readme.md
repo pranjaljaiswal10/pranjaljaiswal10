@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pranjal
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning nextjs
 - 💞️ I’m looking to collaborate on Frontend Topics
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/pranjal-jaiswal04/) or [Twitter](https://twitter.com/pjpranjal04)
